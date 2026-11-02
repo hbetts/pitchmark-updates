@@ -1,0 +1,49 @@
+{
+ "build": 2,
+ "version": "0.2.0",
+ "minShell": "0.2.0",
+ "path": "builds/2",
+ "files": [
+  {
+   "path": "assets/cameraTracker-BHXhPw4a.js",
+   "size": 8100,
+   "sha256": "209a30310be06ba36cdcc5cda1fc91b9d414a39566a739754dfe410b8f492525"
+  },
+  {
+   "path": "assets/demoClip-Em645CzP.js",
+   "size": 4747,
+   "sha256": "ca56d5784126c1c35e7d4ed5206bd4e0b37f2e4f784ab27202640c954f919901"
+  },
+  {
+   "path": "assets/image-CC247Qj9.js",
+   "size": 2561,
+   "sha256": "42d8f00db4060425b62183b3d67b22a65611e874d707e142d21396e0a43b3dc4"
+  },
+  {
+   "path": "assets/index-BSSaW2IR.css",
+   "size": 14272,
+   "sha256": "c5d13ef8b0adfeed5a9b5ec4cbc2c6c3624940269adfcee33298d70713759d42"
+  },
+  {
+   "path": "assets/index-C5iw71bh.js",
+   "size": 407363,
+   "sha256": "7ba3469321da139e08de338c58100902cbaa1961bf7c58c011c3c6a5759fe742"
+  },
+  {
+   "path": "assets/playerTracker-Co2y1xGD.js",
+   "size": 3632,
+   "sha256": "9a40d5c15e33173df46d6ede48dc21dec7337023af044b9b7a0a2247ae99edb5"
+  },
+  {
+   "path": "build.json",
+   "size": 48,
+   "sha256": "ad6baed24b3cf0605f49591202cb45c8117b049ba346c5d635838867e44e705e"
+  },
+  {
+   "path": "index.html",
+   "size": 396,
+   "sha256": "1c2280b5c0cc096b2e51916dc7b24cc7f5a60bb84fa6a593069a159cd43c48b9"
+  }
+ ],
+ "created": "2026-11-02T17:42:37.783Z"
+}
